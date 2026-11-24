@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>마케팅 채용 레이더 | 천안·아산·평택·안성·오산</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="container hero-inner">
+      <div>
+        <div class="eyebrow">AUTO MARKETING JOB RADAR</div>
+        <h1>천안 · 아산 · 평택 · 안성 · 오산<br />마케팅 채용 연봉순 대시보드</h1>
+        <p class="subtitle">
+          사람인 · 잡코리아 · 원티드 · 인크루트 · 잡플래닛 공고를 매일 자동 수집해 연봉이 높은 순으로 정리합니다.
+        </p>
+      </div>
+      <div class="hero-actions">
+        <div class="updated-pill" id="updatedAt">업데이트 불러오는 중...</div>
+        <a class="btn-secondary" href="data/jobs.csv" download="marketing_jobs.csv">⬇ 엑셀(CSV) 다운로드</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- KPI Summary -->
+    <section class="stats-grid" id="statsGrid">
+      <div class="stat-card">
+        <div class="stat-label">전체 마케팅 공고</div>
+        <div class="stat-value" id="statTotal">-</div>
+      </div>
+      <div class="stat-card accent">
+        <div class="stat-label">연봉 명시 공고</div>
+        <div class="stat-value" id="statDisclosed">-</div>
+      </div>
+      <div class="stat-card highlight">
+        <div class="stat-label">최고 연봉 (환산)</div>
+        <div class="stat-value" id="statTopSalary">-</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">명시 공고 평균</div>
+        <div class="stat-value" id="statAvgSalary">-</div>
+      </div>
+    </section>
+
+    <!-- Filters -->
+    <section class="filter-panel">
+      <div class="filter-row">
+        <div class="filter-group">
+          <span class="filter-label">지역</span>
+          <div class="chips" id="regionChips"></div>
+        </div>
+        <div class="filter-group">
+          <span class="filter-label">플랫폼</span>
+          <div class="chips" id="platformChips"></div>
+        </div>
+      </div>
+
+      <div class="controls-row">
+        <div class="search-box">
+          <input
+            type="search"
+            id="searchInput"
+            placeholder="회사명, 직무, 키워드 검색 (예: 퍼포먼스, 브랜드, 콘텐츠, 천안)..."
+          />
+        </div>
+        <div class="right-controls">
+          <label class="toggle-label">
+            <input type="checkbox" id="salaryOnlyToggle" />
+            <span>연봉 명시만</span>
+          </label>
+          <label class="toggle-label">
+            <input type="checkbox" id="bookmarkOnlyToggle" />
+            <span>★ 북마크만</span>
+          </label>
+          <select id="sortSelect" aria-label="정렬 기준">
+            <option value="salary">연봉 높은 순</option>
+            <option value="core">핵심 마케팅 우선</option>
+            <option value="rating">기업평점 높은 순</option>
+          </select>
+        </div>
+      </div>
+    </section>
+
+    <!-- Results Header -->
+    <div class="results-bar">
+      <div id="resultCount">공고 불러오는 중...</div>
+      <div class="hint">※ 월급 표기 공고는 ×12 연봉 환산 기준으로 정렬됩니다.</div>
+    </div>
+
+    <!-- Job List -->
+    <section class="job-list" id="jobList">
+      <div class="empty-state">데이터를 불러오는 중입니다...</div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <p>GitHub Actions로 매일 자동 수집 · GitHub Pages로 어디서든 열람 가능</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
