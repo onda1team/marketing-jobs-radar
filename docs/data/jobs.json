@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24 15:53 KST",
-  "updated_iso": "2026-11-24T15:53:36.388087+09:00",
+  "updated_at": "2026-11-25 09:46 KST",
+  "updated_iso": "2026-11-25T09:46:45.284460+09:00",
   "target_regions": [
     "천안",
     "아산",
@@ -8,22 +8,21 @@
     "안성",
     "오산"
   ],
-  "total": 137,
-  "salary_disclosed_count": 39,
+  "total": 138,
+  "salary_disclosed_count": 38,
   "top_salary_manwon": 25150,
-  "avg_salary_manwon": 3962,
+  "avg_salary_manwon": 3943,
   "region_counts": {
-    "천안": 54,
-    "아산": 20,
-    "평택": 40,
-    "안성": 19,
+    "천안": 56,
+    "아산": 19,
+    "평택": 41,
+    "안성": 18,
     "오산": 27
   },
   "platform_counts": {
     "잡코리아": 40,
-    "사람인": 94,
-    "인크루트": 2,
-    "원티드": 1
+    "사람인": 96,
+    "인크루트": 2
   },
   "platform_errors": {},
   "jobs": [
@@ -169,7 +168,7 @@
       "title": "&화성/주5일/중식제공 반도체기업 ART센터 운영담당 직원채용",
       "company": "(주)맨파워코리아",
       "location": "강남구 , 서초구 , 송파구 , 경기 경기전체 , 수원시 , 오산시 , 용인시 , 화성시 동탄구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55654609&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=5de1b685-de6c-44e5-a061-b7f774b6f90f",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55654609&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=ff55ffee-ee25-4409-89e3-3fe4852d2a21",
       "regions": [
         "오산"
       ],
@@ -191,7 +190,7 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "fca0a35b3241"
+      "job_id": "5943c61ce62c"
     },
     {
       "platform": "잡코리아",
@@ -278,7 +277,7 @@
       "title": "청년대상 온라인 마케팅을 함께할 인재를 모집합니다.",
       "company": "(주)에프엠투",
       "location": "충남 천안시 서북구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55442494&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b9f84c88-0529-4a60-8d2b-6ab5285d5027",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55442494&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
       "regions": [
         "천안"
       ],
@@ -300,14 +299,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "fcfdd95577d1"
+      "job_id": "d5689ff3a5a9"
     },
     {
       "platform": "사람인",
       "title": "[오산점] 골프샵 판매/블로그 마케팅 운영 채용 (판매장려금)",
       "company": "(주)골프프렌드",
       "location": "경기전체 , 오산시 , 용인시 기흥구 , 평택시 , 화성시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55559235&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bfa1c055-b65f-403b-acad-bbdbe838b7d7",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55559235&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=c7770748-dfc3-4095-8026-6c9ba40a8b47",
       "regions": [
         "평택",
         "오산"
@@ -330,7 +329,7 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "76791cb881aa"
+      "job_id": "1eccf2b8dffb"
     },
     {
       "platform": "잡코리아",
@@ -359,34 +358,6 @@
       "is_core_marketing": false,
       "posted_at": "",
       "job_id": "2ba8c4ded51e"
-    },
-    {
-      "platform": "잡코리아",
-      "title": "[(주)BSB FOOD] 본사 메뉴 개발 담당자(경력) 채용",
-      "company": "㈜비에스비푸드",
-      "location": "경기 안성시",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50341879",
-      "regions": [
-        "안성"
-      ],
-      "salary_raw": "연봉 3,610만원~",
-      "salary_display": "연 3,610만원",
-      "salary_annual_manwon": 3610,
-      "salary_min_manwon": 3610,
-      "salary_max_manwon": 3610,
-      "experience": "경력",
-      "employment_type": "",
-      "deadline": "오늘 마감! 놓치지 마세요!",
-      "tags": [
-        "음식료·외식·프랜차이즈",
-        "마케팅기획",
-        "요리사",
-        "셰프·주방장"
-      ],
-      "company_rating": null,
-      "is_core_marketing": false,
-      "posted_at": "",
-      "job_id": "ff88c268e4d9"
     },
     {
       "platform": "잡코리아",
@@ -421,7 +392,7 @@
       "title": "온라인 마케팅(SNS)을 함께할 인재를 모집합니다.",
       "company": "(주)에프엠투",
       "location": "충남 천안시 서북구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55442489&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b9f84c88-0529-4a60-8d2b-6ab5285d5027",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55442489&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
       "regions": [
         "천안"
       ],
@@ -443,14 +414,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "3f3b98a4cbe9"
+      "job_id": "c8e6503b6f8a"
     },
     {
       "platform": "사람인",
       "title": "[위보코리아] 의료기기 브랜드 영업사원 신입 채용",
       "company": "(주)위보코리아",
       "location": "서울 강서구 , 경기 광명시 , 김포시 , 안산시 , 안성시 , 하남시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55189327&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=0c1bfc56-e008-40fa-9a87-958d4b72b879",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55189327&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=09c42731-16e8-4aba-88cd-f7909f4ecc8d",
       "regions": [
         "안성"
       ],
@@ -471,14 +442,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "b2c0be3762ae"
+      "job_id": "2d10158e1e05"
     },
     {
       "platform": "사람인",
       "title": "[연봉 3400-4500] 병원 마케팅 팀원을 모십니다.",
       "company": "천안스노우의원",
       "location": "충남 천안시 서북구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55578647&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=724c0cc9-384b-40ef-9fd7-a0b57381eccd",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55578647&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b1a09eed-0f1e-4400-8c09-7f6c423a8772",
       "regions": [
         "천안"
       ],
@@ -500,14 +471,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "e91252d42bda"
+      "job_id": "0a97df7eb1d8"
     },
     {
       "platform": "사람인",
       "title": "[정규직] 온라인 마케터 채용",
       "company": "바른",
       "location": "경기 안성시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55282361&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=0c1bfc56-e008-40fa-9a87-958d4b72b879",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55282361&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=09c42731-16e8-4aba-88cd-f7909f4ecc8d",
       "regions": [
         "안성"
       ],
@@ -529,14 +500,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "45dcab4a14bd"
+      "job_id": "9a6271b7c11e"
     },
     {
       "platform": "사람인",
       "title": "슬로엔에서 브랜드 콘텐츠 마케터로 함께 성장해요",
       "company": "슬로엔",
       "location": "경기 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55439108&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bfa1c055-b65f-403b-acad-bbdbe838b7d7",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55439108&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=c7770748-dfc3-4095-8026-6c9ba40a8b47",
       "regions": [
         "평택"
       ],
@@ -557,7 +528,7 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "f39604e32b75"
+      "job_id": "0ad3dcbc3635"
     },
     {
       "platform": "잡코리아",
@@ -697,7 +668,7 @@
       "title": "SNS 콘텐츠 마케팅 담당자 채용 (기획·촬영·편집·채널 운영)",
       "company": "(주)한국코팅",
       "location": "충남 아산시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55521508&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=9001b1af-def4-413a-aa0e-10707fb1e25a",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55521508&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=4cd58a2b-eb9d-4eb0-823c-3f28189ab773",
       "regions": [
         "아산"
       ],
@@ -719,7 +690,7 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "51945b1d199e"
+      "job_id": "740323c5a685"
     },
     {
       "platform": "잡코리아",
@@ -746,35 +717,6 @@
       "is_core_marketing": false,
       "posted_at": "",
       "job_id": "4dbc49e0c58c"
-    },
-    {
-      "platform": "사람인",
-      "title": "온라인쇼핑몰 스마트스토어, 쿠팡 운영 및 관리 담당자 모집",
-      "company": "위마인드",
-      "location": "충남 천안시 서북구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55440183&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b9f84c88-0529-4a60-8d2b-6ab5285d5027",
-      "regions": [
-        "천안"
-      ],
-      "salary_raw": "3,000 만원",
-      "salary_display": "연 3,000만원",
-      "salary_annual_manwon": 3000,
-      "salary_min_manwon": 3000,
-      "salary_max_manwon": 3000,
-      "experience": "경력",
-      "employment_type": "무기계약직·계약직",
-      "deadline": "~ 11/29(일)",
-      "tags": [
-        "온라인마케팅",
-        "AI(인공지능)",
-        "앱디자인",
-        "전자상거래",
-        "쇼핑몰"
-      ],
-      "company_rating": null,
-      "is_core_marketing": false,
-      "posted_at": "",
-      "job_id": "2254dc9c5376"
     },
     {
       "platform": "잡코리아",
@@ -807,7 +749,7 @@
       "title": "[더봄기획] 공연기획,운영 매니저 채용ㅣ신입가능ㅣ연봉3000+a",
       "company": "더봄기획",
       "location": "충남 천안시 동남구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55139398&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b9f84c88-0529-4a60-8d2b-6ab5285d5027",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55139398&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
       "regions": [
         "천안"
       ],
@@ -829,14 +771,14 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "434d32c8c34a"
+      "job_id": "854a1bbe06af"
     },
     {
       "platform": "사람인",
       "title": "천안·아산 학교급식 식품 마케팅·영업 및 홍보 담당",
       "company": "푸드앤푸드 천안",
       "location": "충남 천안시 서북구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55630203&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=724c0cc9-384b-40ef-9fd7-a0b57381eccd",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55630203&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b1a09eed-0f1e-4400-8c09-7f6c423a8772",
       "regions": [
         "천안"
       ],
@@ -858,14 +800,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "cc48c1dc97ea"
+      "job_id": "698a15df6cbf"
     },
     {
       "platform": "사람인",
       "title": "(주)금별산업 영업지원·회사마케팅·디자인업무 인재채용",
       "company": "(주)금별산업",
       "location": "경기 안성시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55549884&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=e618a469-06a1-4e8d-a7c9-2cc1afb5ce90",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55549884&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=fffc80ba-b5bc-498b-a3d9-e29fc124994c",
       "regions": [
         "안성"
       ],
@@ -887,14 +829,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "1b5b9e2952fd"
+      "job_id": "e437b1ee762e"
     },
     {
       "platform": "사람인",
       "title": "[이레 마케팅 천안 ] 글로벌 의료마케팅 운영·관리 매니저 채용",
       "company": "주식회사이레마케팅화성관리본부",
       "location": "충남 천안시 동남구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55583905&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=724c0cc9-384b-40ef-9fd7-a0b57381eccd",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55583905&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b1a09eed-0f1e-4400-8c09-7f6c423a8772",
       "regions": [
         "천안"
       ],
@@ -914,7 +856,7 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "4fa639079c50"
+      "job_id": "25b3fc7e9bd5"
     },
     {
       "platform": "잡코리아",
@@ -947,7 +889,7 @@
       "title": "조회수 터지는 글을 쓰는 바이럴 마케터 모집",
       "company": "킵고잉컴퍼니",
       "location": "경기 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55611727&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=aecfd225-7a6a-4328-9d82-bbfb1c2c1a8d",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55611727&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bce7c555-394c-421b-9855-2ae9b1f8d9e2",
       "regions": [
         "평택"
       ],
@@ -969,14 +911,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "180d0854553f"
+      "job_id": "40d8f2fcda6f"
     },
     {
       "platform": "사람인",
       "title": "히트마케팅에서 대행사 광고 디자이너를 찾고 있어요",
       "company": "히트마케팅",
       "location": "충남 천안시 서북구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55354707&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b9f84c88-0529-4a60-8d2b-6ab5285d5027",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55354707&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
       "regions": [
         "천안"
       ],
@@ -998,14 +940,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "fcf8cccddc68"
+      "job_id": "90ea0f31a83e"
     },
     {
       "platform": "사람인",
       "title": "[천안] 사무/온라인쇼핑몰 관리 및 택배 업무/홍보업무",
       "company": "채움원예종묘(주)",
       "location": "충남 천안시 서북구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55192934&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b9f84c88-0529-4a60-8d2b-6ab5285d5027",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55192934&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
       "regions": [
         "천안"
       ],
@@ -1027,7 +969,7 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "7f776567769b"
+      "job_id": "461f23084e60"
     },
     {
       "platform": "잡코리아",
@@ -1060,7 +1002,7 @@
       "title": "온라인 마케팅팀 관리 업무 (프리랜서 지원불가)",
       "company": "(주)지오솔라에너지",
       "location": "충남 천안시 서북구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55516719&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b9f84c88-0529-4a60-8d2b-6ab5285d5027",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55516719&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
       "regions": [
         "천안"
       ],
@@ -1082,14 +1024,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "37556c8332ec"
+      "job_id": "9a66d92f8076"
     },
     {
       "platform": "사람인",
       "title": "[10시-5시 근무] 정보확인 및 광고 상담 사무직원 모집",
       "company": "케이티엔114주식회사(평택지점)",
       "location": "경기 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55533993&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bfa1c055-b65f-403b-acad-bbdbe838b7d7",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55533993&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=c7770748-dfc3-4095-8026-6c9ba40a8b47",
       "regions": [
         "평택"
       ],
@@ -1111,7 +1053,33 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "e0b980e9bcdd"
+      "job_id": "296ca5f0f119"
+    },
+    {
+      "platform": "사람인",
+      "title": "영업마케팅, 사무보조 및 고객상담 신입 채용",
+      "company": "티에스씨",
+      "location": "경기 수원시 , 수원시 팔달구 , 오산시 , 용인시 , 화성시",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55228119&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=a4591bee-7af3-42ac-bf3b-04b0d806cf2a",
+      "regions": [
+        "오산"
+      ],
+      "salary_raw": "160 만원",
+      "salary_display": "연 1,920만원 (월 160만원)",
+      "salary_annual_manwon": 1920,
+      "salary_min_manwon": 1920,
+      "salary_max_manwon": 1920,
+      "experience": "경력무관",
+      "employment_type": "기간제·무기계약직",
+      "deadline": "~ 12/06(일)",
+      "tags": [
+        "부동산영업",
+        "컨설팅"
+      ],
+      "company_rating": null,
+      "is_core_marketing": true,
+      "posted_at": "",
+      "job_id": "026a9c95a957"
     },
     {
       "platform": "잡코리아",
@@ -1145,7 +1113,7 @@
       "title": "휴먼피부과 평택점 경력 마케터 채용합니다",
       "company": "휴먼피부과",
       "location": "경기 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55622255&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=aecfd225-7a6a-4328-9d82-bbfb1c2c1a8d",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55622255&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bce7c555-394c-421b-9855-2ae9b1f8d9e2",
       "regions": [
         "평택"
       ],
@@ -1164,7 +1132,7 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "901aeb35aba8"
+      "job_id": "c09564442a0a"
     },
     {
       "platform": "잡코리아",
@@ -1226,7 +1194,7 @@
       "title": "홀릭마케팅 디자인·영상편집 (캡컷·포토샵·AI 능숙자)",
       "company": "홀릭 마케팅",
       "location": "충남 천안시 서북구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55453423&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b9f84c88-0529-4a60-8d2b-6ab5285d5027",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55453423&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
       "regions": [
         "천안"
       ],
@@ -1248,14 +1216,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "767e11787af2"
+      "job_id": "978d48701908"
     },
     {
       "platform": "사람인",
       "title": "쇼핑몰 콘텐츠 촬영포토샵 영상 릴스 제작 sns홍보 경력자",
       "company": "해피데이",
       "location": "경기전체 , 수원시 , 오산시 , 평택시 , 화성시 동탄구 , 충남 천안시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55508006&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b9f84c88-0529-4a60-8d2b-6ab5285d5027",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55508006&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
       "regions": [
         "천안",
         "평택",
@@ -1279,14 +1247,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "e3883e743615"
+      "job_id": "c2543d6d18fa"
     },
     {
       "platform": "사람인",
       "title": "쇼핑몰 촬영포토샵 콘텐츠 영상 릴스 제작 sns홍보 경력자",
       "company": "해피데이",
       "location": "경기전체 , 수원시 , 오산시 , 평택시 , 화성시 동탄구 , 충남 천안시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55121889&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b9f84c88-0529-4a60-8d2b-6ab5285d5027",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55121889&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
       "regions": [
         "천안",
         "평택",
@@ -1299,7 +1267,7 @@
       "salary_max_manwon": 0,
       "experience": "경력",
       "employment_type": "정규직·계약직",
-      "deadline": "내일마감",
+      "deadline": "오늘마감",
       "tags": [
         "SNS마케팅",
         "온라인마케팅",
@@ -1310,14 +1278,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "2ae8bc71dd0f"
+      "job_id": "01aa50799a97"
     },
     {
       "platform": "사람인",
       "title": "인터넷 쇼핑몰 MD 웹디자인 마케터 경력자 채용",
       "company": "해피데이",
       "location": "경기전체 , 수원시 , 시흥시 , 평택시 , 화성시 , 충남 천안시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55121890&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b9f84c88-0529-4a60-8d2b-6ab5285d5027",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55121890&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
       "regions": [
         "천안",
         "평택"
@@ -1329,7 +1297,7 @@
       "salary_max_manwon": 0,
       "experience": "경력2년↑",
       "employment_type": "정규직",
-      "deadline": "내일마감",
+      "deadline": "오늘마감",
       "tags": [
         "마케팅기획",
         "SNS마케팅",
@@ -1340,14 +1308,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "aa047340a8c4"
+      "job_id": "f363c7abf541"
     },
     {
       "platform": "사람인",
       "title": "[충남 천안/코스닥 상장] 반도체 중견기업 해외영업/마케팅/MES 채용",
       "company": "피피에이치알",
       "location": "안성시 , 평택시 , 대전 대전전체 , 충북 청주시 , 충남 공주시 , 당진시 , 서산시 , 아산시 , 천안시 , 세종 세종특별자치시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55165866&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=724c0cc9-384b-40ef-9fd7-a0b57381eccd",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55165866&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b1a09eed-0f1e-4400-8c09-7f6c423a8772",
       "regions": [
         "천안",
         "아산",
@@ -1372,14 +1340,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "62cb10464bed"
+      "job_id": "9bdf37753460"
     },
     {
       "platform": "사람인",
       "title": "[쿠팡CFS] 경기권역 HR 마케팅 채용담당자 모집 (동탄센터 근무)",
       "company": "쿠팡풀필먼트서비스(유)",
       "location": "서울전체 , 경기 수원시 , 오산시 , 용인시 , 화성시 , 화성시 동탄구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55553678&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=b4ca980a-389c-40d3-b1c3-c481ce5661be",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55553678&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=a4591bee-7af3-42ac-bf3b-04b0d806cf2a",
       "regions": [
         "오산"
       ],
@@ -1401,14 +1369,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "f9705d0fe5da"
+      "job_id": "37de6e7decbf"
     },
     {
       "platform": "사람인",
       "title": "OLED소재 마케팅 영업 차,부장급(천안)",
       "company": "커리어메타써치",
       "location": "충남 천안시 동남구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55570594&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=724c0cc9-384b-40ef-9fd7-a0b57381eccd",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55570594&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b1a09eed-0f1e-4400-8c09-7f6c423a8772",
       "regions": [
         "천안"
       ],
@@ -1429,14 +1397,40 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "7fd8dd5bac95"
+      "job_id": "ff88adbc6aec"
+    },
+    {
+      "platform": "잡코리아",
+      "title": "㈜이레마케팅 천안관리본부",
+      "company": "충남 천안시",
+      "location": "[천안]병원 태국 통역사 채용(D-2 비자 불가능)",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50423723",
+      "regions": [
+        "천안"
+      ],
+      "salary_raw": "월급 230~99,990만원",
+      "salary_display": "월급 230~99,990만원",
+      "salary_annual_manwon": 0,
+      "salary_min_manwon": 0,
+      "salary_max_manwon": 0,
+      "experience": "경력무관",
+      "employment_type": "",
+      "deadline": "",
+      "tags": [
+        "광고·홍보·전시",
+        "온라인마케터"
+      ],
+      "company_rating": null,
+      "is_core_marketing": true,
+      "posted_at": "",
+      "job_id": "7ddc2553619b"
     },
     {
       "platform": "사람인",
       "title": "[천안시 서북구] 온라인 마케팅 디자이너 채용",
       "company": "천안축산물유통센터",
       "location": "충남 천안시 서북구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55162138&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=724c0cc9-384b-40ef-9fd7-a0b57381eccd",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55162138&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b1a09eed-0f1e-4400-8c09-7f6c423a8772",
       "regions": [
         "천안"
       ],
@@ -1458,7 +1452,7 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "1b92e9a579b7"
+      "job_id": "a793be12a7e8"
     },
     {
       "platform": "인크루트",
@@ -1478,10 +1472,11 @@
       "employment_type": "",
       "deadline": "~12.09 (수)",
       "tags": [
+        "1000대",
         "홍보·PR,",
         "판매·매장직",
         "~12.09 (수)",
-        "(15일전 등록)"
+        "(16일전 등록)"
       ],
       "company_rating": null,
       "is_core_marketing": true,
@@ -1520,7 +1515,7 @@
       "title": "일등측량측기 사무보조(마케팅·홍보·조사) 채용 공고",
       "company": "일등측량측기",
       "location": "경기 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55390869&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bfa1c055-b65f-403b-acad-bbdbe838b7d7",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55390869&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=c7770748-dfc3-4095-8026-6c9ba40a8b47",
       "regions": [
         "평택"
       ],
@@ -1531,7 +1526,7 @@
       "salary_max_manwon": 0,
       "experience": "경력무관",
       "employment_type": "정규직",
-      "deadline": "내일마감",
+      "deadline": "오늘마감",
       "tags": [
         "광고마케팅",
         "경리",
@@ -1542,14 +1537,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "e94827e4c1ab"
+      "job_id": "68b969e8fd86"
     },
     {
       "platform": "사람인",
       "title": "마케팅 기술영업(제조) 정규직 채용(경력)",
       "company": "유주티엔씨(주)",
       "location": "경기 안성시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55460904&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=0c1bfc56-e008-40fa-9a87-958d4b72b879",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55460904&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=09c42731-16e8-4aba-88cd-f7909f4ecc8d",
       "regions": [
         "안성"
       ],
@@ -1569,40 +1564,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "1c590809465d"
-    },
-    {
-      "platform": "잡코리아",
-      "title": "온리인 쇼핑몰 운영 및 마케팅 담당자 모집",
-      "company": "위마인드",
-      "location": "충남 천안시",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50274477",
-      "regions": [
-        "천안"
-      ],
-      "salary_raw": "",
-      "salary_display": "회사내규 / 면접 후 결정",
-      "salary_annual_manwon": 0,
-      "salary_min_manwon": 0,
-      "salary_max_manwon": 0,
-      "experience": "경력무관",
-      "employment_type": "",
-      "deadline": "",
-      "tags": [
-        "네트워크·통신서비스",
-        "웹디자이너"
-      ],
-      "company_rating": null,
-      "is_core_marketing": true,
-      "posted_at": "",
-      "job_id": "e0c570e6ef6b"
+      "job_id": "fc123bb42105"
     },
     {
       "platform": "사람인",
       "title": "우성인테리어 프리랜서 마케터를 모집해요",
       "company": "우성인테리어",
       "location": "충남 천안시 동남구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55627276&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b9f84c88-0529-4a60-8d2b-6ab5285d5027",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55627276&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
       "regions": [
         "천안"
       ],
@@ -1624,14 +1593,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "9d27d7536c5e"
+      "job_id": "02154587363e"
     },
     {
       "platform": "사람인",
       "title": "우성인테리어/우성직업전문학교 프리랜서 마케터를 모집해요..",
       "company": "우성인테리어",
       "location": "충남 천안시 동남구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55637206&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b9f84c88-0529-4a60-8d2b-6ab5285d5027",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55637206&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
       "regions": [
         "천안"
       ],
@@ -1653,14 +1622,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "bb123d744db4"
+      "job_id": "d7053aac1e40"
     },
     {
       "platform": "사람인",
       "title": "병원 경영지원 마케팅 및 포스터 제작 일러스트레이터",
       "company": "연세뉴치과",
       "location": "충남 아산시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55537153&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=9001b1af-def4-413a-aa0e-10707fb1e25a",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55537153&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=4cd58a2b-eb9d-4eb0-823c-3f28189ab773",
       "regions": [
         "아산"
       ],
@@ -1682,14 +1651,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "548c83eaf510"
+      "job_id": "828321fd4d6d"
     },
     {
       "platform": "사람인",
       "title": "B2B 콘텐츠 마케터 (SNS·비주얼/포폴필수)",
       "company": "스탈아시아(유)",
       "location": "충남 천안시 동남구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55507477&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b9f84c88-0529-4a60-8d2b-6ab5285d5027",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55507477&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
       "regions": [
         "천안"
       ],
@@ -1711,33 +1680,7 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "3c506ced40f0"
-    },
-    {
-      "platform": "원티드",
-      "title": "해외 마케터",
-      "company": "모건",
-      "location": "경기 오산시",
-      "url": "https://www.wanted.co.kr/wd/393648",
-      "regions": [
-        "오산"
-      ],
-      "salary_raw": "",
-      "salary_display": "회사내규 / 면접 후 결정",
-      "salary_annual_manwon": 0,
-      "salary_min_manwon": 0,
-      "salary_max_manwon": 0,
-      "experience": "경력 3년 이상",
-      "employment_type": "정규직",
-      "deadline": "상시채용",
-      "tags": [
-        "마케팅·광고",
-        "보상금 100만원"
-      ],
-      "company_rating": null,
-      "is_core_marketing": true,
-      "posted_at": "",
-      "job_id": "18ad9e8b151c"
+      "job_id": "9db4ede8f7e8"
     },
     {
       "platform": "잡코리아",
@@ -1772,7 +1715,7 @@
       "title": "평택 비전동 치과 네팔 지역 담당자 모집 SNS 마케터(고객관리)",
       "company": "리젠치과의원",
       "location": "경기 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55519257&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=aecfd225-7a6a-4328-9d82-bbfb1c2c1a8d",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55519257&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bce7c555-394c-421b-9855-2ae9b1f8d9e2",
       "regions": [
         "평택"
       ],
@@ -1791,7 +1734,7 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "ce713d5f0f55"
+      "job_id": "0ef0c0f40906"
     },
     {
       "platform": "잡코리아",
@@ -1824,7 +1767,7 @@
       "title": "국내외 마케팅·영업/기획·전략 부문 담당자 채용",
       "company": "로보콘(주)",
       "location": "경기 오산시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55436486&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=5de1b685-de6c-44e5-a061-b7f774b6f90f",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55436486&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=ff55ffee-ee25-4409-89e3-3fe4852d2a21",
       "regions": [
         "오산"
       ],
@@ -1844,14 +1787,42 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "d87289020ead"
+      "job_id": "4e642ed33ea4"
+    },
+    {
+      "platform": "사람인",
+      "title": "온라인마케팅 정규직 채용합니다 - 경력",
+      "company": "로건 인테리어",
+      "location": "충남 천안시 동남구",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55661220&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
+      "regions": [
+        "천안"
+      ],
+      "salary_raw": "",
+      "salary_display": "회사내규 / 면접 후 결정",
+      "salary_annual_manwon": 0,
+      "salary_min_manwon": 0,
+      "salary_max_manwon": 0,
+      "experience": "경력",
+      "employment_type": "정규직",
+      "deadline": "~ 12/24(목)",
+      "tags": [
+        "온라인마케팅",
+        "도배/벽지",
+        "인테리어",
+        "도배·벽지"
+      ],
+      "company_rating": null,
+      "is_core_marketing": true,
+      "posted_at": "",
+      "job_id": "98f7f1ee0d13"
     },
     {
       "platform": "사람인",
       "title": "[K-뉴딜] 어도비 AI 콘텐츠 마케팅 과정",
       "company": "대한상공회의소",
       "location": "서울전체 , 경기 경기전체 , 인천 인천전체 , 강원 강원전체 , 경남 경남전체 , 경북 경북전체 , 전북 전북전체 , 충남 충남전체 , 천안시 , 전국 전국",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55437229&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=724c0cc9-384b-40ef-9fd7-a0b57381eccd",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55437229&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b1a09eed-0f1e-4400-8c09-7f6c423a8772",
       "regions": [
         "천안"
       ],
@@ -1873,14 +1844,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "c7d2a774d866"
+      "job_id": "4041752e8575"
     },
     {
       "platform": "사람인",
       "title": "농업회사법인(주)온샘에서 온라인 퍼포먼스/브랜드 마케터를 찾고 있어요",
       "company": "농업회사법인(주)온샘",
       "location": "경기 안성시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55585861&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=e618a469-06a1-4e8d-a7c9-2cc1afb5ce90",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55585861&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=fffc80ba-b5bc-498b-a3d9-e29fc124994c",
       "regions": [
         "안성"
       ],
@@ -1902,7 +1873,7 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "1bda05309b76"
+      "job_id": "e538238d1640"
     },
     {
       "platform": "잡코리아",
@@ -1937,7 +1908,7 @@
       "title": "[반도체] 마케팅 (천안)",
       "company": "글로벌서치",
       "location": "충남 천안시 동남구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55564740&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=724c0cc9-384b-40ef-9fd7-a0b57381eccd",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55564740&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b1a09eed-0f1e-4400-8c09-7f6c423a8772",
       "regions": [
         "천안"
       ],
@@ -1959,7 +1930,33 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "d46b267e2537"
+      "job_id": "cdc14594a01d"
+    },
+    {
+      "platform": "잡코리아",
+      "title": "촌놈칩스에서 브랜드 크리에이티브 매니저를 찾습니다.",
+      "company": "㈜촌놈",
+      "location": "충남 천안시",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50416838",
+      "regions": [
+        "천안"
+      ],
+      "salary_raw": "",
+      "salary_display": "회사내규 / 면접 후 결정",
+      "salary_annual_manwon": 0,
+      "salary_min_manwon": 0,
+      "salary_max_manwon": 0,
+      "experience": "경력",
+      "employment_type": "",
+      "deadline": "",
+      "tags": [
+        "식품가공",
+        "콘텐츠마케터"
+      ],
+      "company_rating": null,
+      "is_core_marketing": true,
+      "posted_at": "",
+      "job_id": "fe99390c969d"
     },
     {
       "platform": "잡코리아",
@@ -1988,6 +1985,32 @@
       "is_core_marketing": true,
       "posted_at": "",
       "job_id": "8d337bc1dafd"
+    },
+    {
+      "platform": "잡코리아",
+      "title": "(주)온앤오프에서 브랜드·마케팅 기획 AE 채용공고",
+      "company": "㈜온앤오프",
+      "location": "경기 평택시",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50412017",
+      "regions": [
+        "평택"
+      ],
+      "salary_raw": "",
+      "salary_display": "회사내규 / 면접 후 결정",
+      "salary_annual_manwon": 0,
+      "salary_min_manwon": 0,
+      "salary_max_manwon": 0,
+      "experience": "경력무관",
+      "employment_type": "",
+      "deadline": "",
+      "tags": [
+        "광고·홍보·전시",
+        "AE(광고기획자)"
+      ],
+      "company_rating": null,
+      "is_core_marketing": true,
+      "posted_at": "",
+      "job_id": "1e3784a7ef7f"
     },
     {
       "platform": "잡코리아",
@@ -2073,32 +2096,6 @@
     },
     {
       "platform": "잡코리아",
-      "title": "(주) 바른교육사. 키즈엠 교육. 사무회계 ,마케팅,홍보 ,교육당담자",
-      "company": "㈜바른교육사",
-      "location": "충남 천안시",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50235379",
-      "regions": [
-        "천안"
-      ],
-      "salary_raw": "",
-      "salary_display": "회사내규 / 면접 후 결정",
-      "salary_annual_manwon": 0,
-      "salary_min_manwon": 0,
-      "salary_max_manwon": 0,
-      "experience": "경력무관",
-      "employment_type": "",
-      "deadline": "오늘 마감! 놓치지 마세요!",
-      "tags": [
-        "유아·유치원·어린이집",
-        "홍보"
-      ],
-      "company_rating": null,
-      "is_core_marketing": true,
-      "posted_at": "",
-      "job_id": "c77254b463da"
-    },
-    {
-      "platform": "잡코리아",
       "title": "디자인, 브랜드 마케팅, 입출고 관리 직원 채용",
       "company": "㈜로얄메이드",
       "location": "충남 아산시 외 1",
@@ -2141,7 +2138,7 @@
       "salary_max_manwon": 0,
       "experience": "경력3년↑",
       "employment_type": "",
-      "deadline": "",
+      "deadline": "오늘 마감! 놓치지 마세요!",
       "tags": [
         "식품가공",
         "마케팅기획"
@@ -2184,7 +2181,7 @@
       "title": "[한국윤리인권연구원] 마케팅 연구원 채용",
       "company": "(주)한국윤리인권연구원",
       "location": "경기 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55372812&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=aecfd225-7a6a-4328-9d82-bbfb1c2c1a8d",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55372812&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bce7c555-394c-421b-9855-2ae9b1f8d9e2",
       "regions": [
         "평택"
       ],
@@ -2206,14 +2203,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "d955b5d3e128"
+      "job_id": "12d9b0b6a865"
     },
     {
       "platform": "사람인",
       "title": "[안성/평택 근무] 기획 마케팅팀 팀원 정규직 모집",
       "company": "(주)코리아툴링",
       "location": "경기 안성시 , 용인시 , 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55656035&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=aecfd225-7a6a-4328-9d82-bbfb1c2c1a8d",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55656035&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bce7c555-394c-421b-9855-2ae9b1f8d9e2",
       "regions": [
         "평택",
         "안성"
@@ -2236,14 +2233,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "d797d5719772"
+      "job_id": "7db7412c3b8f"
     },
     {
       "platform": "사람인",
       "title": "[중견B2B제조업] 마케팅실장/이사(Sales&Marketing/사업기획)",
       "company": "(주)커리어플라이",
       "location": "경기전체 , 수원시 , 시흥시 , 안산시 , 오산시 , 전국 전국",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55617383&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=5de1b685-de6c-44e5-a061-b7f774b6f90f",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55617383&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=ff55ffee-ee25-4409-89e3-3fe4852d2a21",
       "regions": [
         "오산"
       ],
@@ -2265,20 +2262,20 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "5246e0347e07"
+      "job_id": "94e7661c3ea0"
     },
     {
       "platform": "사람인",
       "title": "가전제품 온라인 마케팅 직원채용 [평택본사]",
       "company": "(주)캐로스컴퍼니",
       "location": "경기전체 , 수원시 권선구 , 오산시 , 평택시 , 화성시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55585798&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=aecfd225-7a6a-4328-9d82-bbfb1c2c1a8d",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55585798&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bce7c555-394c-421b-9855-2ae9b1f8d9e2",
       "regions": [
         "평택",
         "오산"
       ],
-      "salary_raw": "",
-      "salary_display": "회사내규 / 면접 후 결정",
+      "salary_raw": "연봉상승률 10% 이상",
+      "salary_display": "연봉상승률 10% 이상",
       "salary_annual_manwon": 0,
       "salary_min_manwon": 0,
       "salary_max_manwon": 0,
@@ -2295,14 +2292,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "903718a1c11c"
+      "job_id": "738ea77bcb00"
     },
     {
       "platform": "사람인",
       "title": "(주)촌놈에서 브랜드 크리에이티브 매니져를 찾고 있어요",
       "company": "(주)촌놈",
       "location": "충남 천안시 서북구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55644049&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=724c0cc9-384b-40ef-9fd7-a0b57381eccd",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55644049&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
       "regions": [
         "천안"
       ],
@@ -2322,14 +2319,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "6ee1558ad40f"
+      "job_id": "746e780fe20d"
     },
     {
       "platform": "사람인",
       "title": "상품기획·브랜드 마케팅 총괄 채용 (팀장급)",
       "company": "(주)지에프씨생명과학",
       "location": "수원시 , 오산시 , 용인시 , 화성시 , 전국 전국",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55423690&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=b4ca980a-389c-40d3-b1c3-c481ce5661be",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55423690&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=a4591bee-7af3-42ac-bf3b-04b0d806cf2a",
       "regions": [
         "오산"
       ],
@@ -2351,14 +2348,43 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "54e3c4bdbfef"
+      "job_id": "d219e3ccdb3c"
+    },
+    {
+      "platform": "사람인",
+      "title": "[온라인마케팅팀]영상 촬영&편집, 마케팅 사원 모집",
+      "company": "(주)주안홀딩스",
+      "location": "충남 천안시 서북구",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55656632&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b1a09eed-0f1e-4400-8c09-7f6c423a8772",
+      "regions": [
+        "천안"
+      ],
+      "salary_raw": "",
+      "salary_display": "회사내규 / 면접 후 결정",
+      "salary_annual_manwon": 0,
+      "salary_min_manwon": 0,
+      "salary_max_manwon": 0,
+      "experience": "경력무관",
+      "employment_type": "정규직",
+      "deadline": "~ 12/24(목)",
+      "tags": [
+        "마케팅기획",
+        "SNS마케팅",
+        "온라인마케팅",
+        "마케팅전략",
+        "마케팅"
+      ],
+      "company_rating": null,
+      "is_core_marketing": true,
+      "posted_at": "",
+      "job_id": "1eed91132609"
     },
     {
       "platform": "사람인",
       "title": "[재택/프리랜서] 숏폼 인플루언서 마케팅 관리 담당자 모집",
       "company": "(주)조이마케팅",
       "location": "충남 천안시 서북구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55644200&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=724c0cc9-384b-40ef-9fd7-a0b57381eccd",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55644200&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b1a09eed-0f1e-4400-8c09-7f6c423a8772",
       "regions": [
         "천안"
       ],
@@ -2379,7 +2405,35 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "1712ccc9f1a1"
+      "job_id": "0f9e1e0c11a6"
+    },
+    {
+      "platform": "사람인",
+      "title": "[정규직] 숏폼 마케팅 담당자 채용",
+      "company": "(주)조이마케팅",
+      "location": "충남 천안시 서북구",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55658098&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
+      "regions": [
+        "천안"
+      ],
+      "salary_raw": "",
+      "salary_display": "회사내규 / 면접 후 결정",
+      "salary_annual_manwon": 0,
+      "salary_min_manwon": 0,
+      "salary_max_manwon": 0,
+      "experience": "경력무관",
+      "employment_type": "정규직",
+      "deadline": "~ 12/24(목)",
+      "tags": [
+        "블로그마케팅",
+        "온라인마케팅",
+        "인플루언서마케팅",
+        "광고대행사"
+      ],
+      "company_rating": null,
+      "is_core_marketing": true,
+      "posted_at": "",
+      "job_id": "1fd26e375e8d"
     },
     {
       "platform": "인크루트",
@@ -2403,7 +2457,7 @@
         "기술영업,",
         "전자·반도체",
         "채용시",
-        "(3일전 등록)"
+        "(4일전 등록)"
       ],
       "company_rating": null,
       "is_core_marketing": true,
@@ -2415,7 +2469,7 @@
       "title": "[평택점] 애견미용학원 상담/홍보직 모집",
       "company": "(주)웨이브홀딩스",
       "location": "경기 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55519734&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bfa1c055-b65f-403b-acad-bbdbe838b7d7",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55519734&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=c7770748-dfc3-4095-8026-6c9ba40a8b47",
       "regions": [
         "평택"
       ],
@@ -2437,14 +2491,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "5110d9695877"
+      "job_id": "c46942d688ac"
     },
     {
       "platform": "사람인",
       "title": "온라인마케팅 작업자 모집[프리랜서,재택근무]",
       "company": "(주)온프라",
       "location": "충남전체 , 아산시 , 예산군 , 천안시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55399897&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=724c0cc9-384b-40ef-9fd7-a0b57381eccd",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55399897&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b1a09eed-0f1e-4400-8c09-7f6c423a8772",
       "regions": [
         "천안",
         "아산"
@@ -2456,7 +2510,7 @@
       "salary_max_manwon": 0,
       "experience": "경력3년↑",
       "employment_type": "계약직·아르바이트",
-      "deadline": "~ 11/26(목)",
+      "deadline": "내일마감",
       "tags": [
         "블로그마케팅",
         "온라인마케팅",
@@ -2467,14 +2521,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "fbc76cb94a2b"
+      "job_id": "aac6bfff5e6b"
     },
     {
       "platform": "사람인",
       "title": "온라인마케팅 담당자 채용",
       "company": "(주)온프라",
       "location": "충남전체 , 아산시 , 예산군 , 천안시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55516379&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=9001b1af-def4-413a-aa0e-10707fb1e25a",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55516379&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=4cd58a2b-eb9d-4eb0-823c-3f28189ab773",
       "regions": [
         "천안",
         "아산"
@@ -2497,14 +2551,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "3c6d4f27289e"
+      "job_id": "e7dcee4aa6aa"
     },
     {
       "platform": "사람인",
       "title": "(주)온앤오프에서 브랜드·마케팅 기획 AE 채용 /평택",
       "company": "(주)온앤오프",
       "location": "경기 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55626677&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=aecfd225-7a6a-4328-9d82-bbfb1c2c1a8d",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55626677&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bce7c555-394c-421b-9855-2ae9b1f8d9e2",
       "regions": [
         "평택"
       ],
@@ -2526,14 +2580,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "9d2eb7fca5d3"
+      "job_id": "a6d8d6301f40"
     },
     {
       "platform": "사람인",
       "title": "(주)엘케이 마케팅 담당 정규직 모집",
       "company": "(주)엘케이",
       "location": "경기 안성시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55456942&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=e618a469-06a1-4e8d-a7c9-2cc1afb5ce90",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55456942&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=fffc80ba-b5bc-498b-a3d9-e29fc124994c",
       "regions": [
         "안성"
       ],
@@ -2555,43 +2609,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "0132605d7897"
-    },
-    {
-      "platform": "사람인",
-      "title": "에이치앤이루자 마케팅전략팀(경력) 채용",
-      "company": "(주)에이치앤이루자",
-      "location": "충남 아산시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55454280&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=9001b1af-def4-413a-aa0e-10707fb1e25a",
-      "regions": [
-        "아산"
-      ],
-      "salary_raw": "",
-      "salary_display": "회사내규 / 면접 후 결정",
-      "salary_annual_manwon": 0,
-      "salary_min_manwon": 0,
-      "salary_max_manwon": 0,
-      "experience": "경력 4~12년",
-      "employment_type": "정규직",
-      "deadline": "~ 12/02(수)",
-      "tags": [
-        "마케팅기획",
-        "B2B마케팅",
-        "B2B",
-        "반도체",
-        "LCD"
-      ],
-      "company_rating": null,
-      "is_core_marketing": true,
-      "posted_at": "",
-      "job_id": "d5eee50b3756"
+      "job_id": "1d00c4f8e2ff"
     },
     {
       "platform": "사람인",
       "title": "반도체 패키징 영업/마케팅 경력 채용",
       "company": "(주)에이치비테크놀러지",
       "location": "아산시 , 천안시 , 세종 세종특별자치시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55566443&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=9001b1af-def4-413a-aa0e-10707fb1e25a",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55566443&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=4cd58a2b-eb9d-4eb0-823c-3f28189ab773",
       "regions": [
         "천안",
         "아산"
@@ -2614,14 +2639,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "43636c4e3b7f"
+      "job_id": "ba1a72194b25"
     },
     {
       "platform": "사람인",
       "title": "[마케팅팀] SNS 콘텐츠·블로그·홍보물 제작 담당자 채용 공고",
       "company": "(주)에스이에프코리아",
       "location": "충남 아산시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55618206&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=9001b1af-def4-413a-aa0e-10707fb1e25a",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55618206&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=4cd58a2b-eb9d-4eb0-823c-3f28189ab773",
       "regions": [
         "아산"
       ],
@@ -2641,14 +2666,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "18c6a9f7c96f"
+      "job_id": "96ae6b1716d2"
     },
     {
       "platform": "사람인",
       "title": "(주)에스더블유컴퍼니 참유니폼 마케팅기획 · 광고운영 담당",
       "company": "(주)에스더블유컴퍼니",
       "location": "경기 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55408207&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bfa1c055-b65f-403b-acad-bbdbe838b7d7",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55408207&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=c7770748-dfc3-4095-8026-6c9ba40a8b47",
       "regions": [
         "평택"
       ],
@@ -2659,7 +2684,7 @@
       "salary_max_manwon": 0,
       "experience": "경력2년↑",
       "employment_type": "프리랜서",
-      "deadline": "~ 11/26(목)",
+      "deadline": "내일마감",
       "tags": [
         "온라인마케팅",
         "마케팅전략",
@@ -2670,20 +2695,20 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "a9099ac1c004"
+      "job_id": "58a6ff5c075d"
     },
     {
       "platform": "사람인",
       "title": "마케팅 담당 경력직 모집",
       "company": "(주)신진에스엠",
       "location": "경기 수원시 , 오산시 , 평택시 , 화성시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55496536&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=aecfd225-7a6a-4328-9d82-bbfb1c2c1a8d",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55496536&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bce7c555-394c-421b-9855-2ae9b1f8d9e2",
       "regions": [
         "평택",
         "오산"
       ],
-      "salary_raw": "",
-      "salary_display": "회사내규 / 면접 후 결정",
+      "salary_raw": "연봉상승률 10% 이상",
+      "salary_display": "연봉상승률 10% 이상",
       "salary_annual_manwon": 0,
       "salary_min_manwon": 0,
       "salary_max_manwon": 0,
@@ -2698,14 +2723,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "3bbabafa872a"
+      "job_id": "1eb34ccae179"
     },
     {
       "platform": "사람인",
       "title": "[뉴욕버거 본사] 온라인 마케팅 담당자 채용",
       "company": "(주)수혁",
       "location": "경기 안성시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55546547&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=e618a469-06a1-4e8d-a7c9-2cc1afb5ce90",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55546547&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=fffc80ba-b5bc-498b-a3d9-e29fc124994c",
       "regions": [
         "안성"
       ],
@@ -2727,14 +2752,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "ab2738b9e861"
+      "job_id": "c6c0c12a26e7"
     },
     {
       "platform": "사람인",
       "title": "[성창오토텍 안성] 공조영업팀(마케팅) 채용",
       "company": "(주)성창오토텍",
       "location": "경기 안성시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55581779&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=9001b1af-def4-413a-aa0e-10707fb1e25a",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55581779&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=4cd58a2b-eb9d-4eb0-823c-3f28189ab773",
       "regions": [
         "안성"
       ],
@@ -2756,14 +2781,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "022607bdfc84"
+      "job_id": "9c79cbe49471"
     },
     {
       "platform": "사람인",
       "title": "[비에스컴퍼니] 광고대행사 경력 검색광고마케터 채용",
       "company": "(주)비에스그룹",
       "location": "경기 수원시 , 수원시 권선구 , 수원시 팔달구 , 오산시 , 용인시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55631286&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=5de1b685-de6c-44e5-a061-b7f774b6f90f",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55631286&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=ff55ffee-ee25-4409-89e3-3fe4852d2a21",
       "regions": [
         "오산"
       ],
@@ -2785,14 +2810,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "0ba179214d30"
+      "job_id": "cb0f6ce5ac26"
     },
     {
       "platform": "사람인",
       "title": "## 첨단 화학소재 코스닥 상장기업 - 마케팅(차부장급)",
       "company": "(주)백그라운드",
       "location": "충남 천안시 동남구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55577029&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b9f84c88-0529-4a60-8d2b-6ab5285d5027",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55577029&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
       "regions": [
         "천안"
       ],
@@ -2814,14 +2839,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "bafe4ce42def"
+      "job_id": "0a413fda1e47"
     },
     {
       "platform": "사람인",
       "title": "[유명 화학 그룹] 마케팅",
       "company": "(주)백그라운드",
       "location": "충남 천안시 동남구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55626807&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b9f84c88-0529-4a60-8d2b-6ab5285d5027",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55626807&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
       "regions": [
         "천안"
       ],
@@ -2843,14 +2868,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "a9504720aa85"
+      "job_id": "4c5a0a0b8b9f"
     },
     {
       "platform": "사람인",
       "title": "[유명 첨단 화학소재 코스닥 상장기업 - 마케팅]",
       "company": "(주)백그라운드",
       "location": "충남 천안시 동남구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55629836&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b9f84c88-0529-4a60-8d2b-6ab5285d5027",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55629836&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
       "regions": [
         "천안"
       ],
@@ -2872,14 +2897,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "2f6a2380c106"
+      "job_id": "cbd775990f2a"
     },
     {
       "platform": "사람인",
       "title": "반도체 패키징·테스트 솔루션(OSAT) 기업: 마케팅 및 시장분석",
       "company": "(주)백그라운드",
       "location": "충남 천안시 서북구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55640107&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b9f84c88-0529-4a60-8d2b-6ab5285d5027",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55640107&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
       "regions": [
         "천안"
       ],
@@ -2901,14 +2926,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "554bd578a59f"
+      "job_id": "7bcdec1d4fbb"
     },
     {
       "platform": "사람인",
       "title": "[모티브이노베이션] 온라인 퍼포먼스 마케터 모집합니다",
       "company": "(주)모티브이노베이션",
       "location": "경기 수원시 , 오산시 , 용인시 , 화성시 , 화성시 동탄구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55466358&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=5de1b685-de6c-44e5-a061-b7f774b6f90f",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55466358&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=ff55ffee-ee25-4409-89e3-3fe4852d2a21",
       "regions": [
         "오산"
       ],
@@ -2930,14 +2955,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "9acea82ccf23"
+      "job_id": "1dea10576bbd"
     },
     {
       "platform": "사람인",
       "title": "[쿨로아600] 뷰티 브랜드 마케팅 팀원(대리급) 채용",
       "company": "(주)리센스메디컬",
       "location": "경기전체 , 수원시 , 오산시 , 용인시 , 화성시 동탄구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55435863&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=5de1b685-de6c-44e5-a061-b7f774b6f90f",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55435863&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=ff55ffee-ee25-4409-89e3-3fe4852d2a21",
       "regions": [
         "오산"
       ],
@@ -2959,14 +2984,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "d54eeb08bf11"
+      "job_id": "8a7ad1b36762"
     },
     {
       "platform": "사람인",
       "title": "[로얄메이드] 디자인·브랜드 마케팅 및 택배 입출고 관리 담당",
       "company": "(주)로얄메이드",
       "location": "충남 아산시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55656699&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=9001b1af-def4-413a-aa0e-10707fb1e25a",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55656699&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=4cd58a2b-eb9d-4eb0-823c-3f28189ab773",
       "regions": [
         "아산"
       ],
@@ -2988,14 +3013,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "cff44c4260ce"
+      "job_id": "a7eaa4151941"
     },
     {
       "platform": "사람인",
       "title": "(주)디엠티 영업마케팅 부분 채용(중국어 필수)",
       "company": "(주)디엠티",
       "location": "경기 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55356260&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bfa1c055-b65f-403b-acad-bbdbe838b7d7",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55356260&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=c7770748-dfc3-4095-8026-6c9ba40a8b47",
       "regions": [
         "평택"
       ],
@@ -3017,14 +3042,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "8c03ffc7ee5e"
+      "job_id": "1a0ac46aa2c4"
     },
     {
       "platform": "사람인",
       "title": "도솔메디 병원마케팅 브랜딩 & 마케팅팀 팀원 모집",
       "company": "(주)도솔메디",
       "location": "경기 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55454967&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=aecfd225-7a6a-4328-9d82-bbfb1c2c1a8d",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55454967&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bce7c555-394c-421b-9855-2ae9b1f8d9e2",
       "regions": [
         "평택"
       ],
@@ -3046,14 +3071,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "29dba48088db"
+      "job_id": "a9610c1d52aa"
     },
     {
       "platform": "사람인",
       "title": "(주)닥터케이바이오 온라인 유통 마케팅관리 채용 공고",
       "company": "(주)닥터케이바이오",
       "location": "경기 안성시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55441309&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=0c1bfc56-e008-40fa-9a87-958d4b72b879",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55441309&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=09c42731-16e8-4aba-88cd-f7909f4ecc8d",
       "regions": [
         "안성"
       ],
@@ -3073,14 +3098,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "1cfe51b17b19"
+      "job_id": "b10626f39b1e"
     },
     {
       "platform": "사람인",
       "title": "(주)다름달음 온라인마케팅 상품기획·MD 경력 채용공고",
       "company": "(주)다름달음",
       "location": "경기 안성시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55464707&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=e618a469-06a1-4e8d-a7c9-2cc1afb5ce90",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55464707&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=fffc80ba-b5bc-498b-a3d9-e29fc124994c",
       "regions": [
         "안성"
       ],
@@ -3101,14 +3126,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "3210bd8e8947"
+      "job_id": "005c298ff6db"
     },
     {
       "platform": "사람인",
       "title": "(주)노크종합관리 홍보 마케팅 및 SNS 콘텐츠 제작 담당자 모집",
       "company": "(주)노크종합관리",
       "location": "경기 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55394249&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=aecfd225-7a6a-4328-9d82-bbfb1c2c1a8d",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55394249&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bce7c555-394c-421b-9855-2ae9b1f8d9e2",
       "regions": [
         "평택"
       ],
@@ -3119,7 +3144,7 @@
       "salary_max_manwon": 0,
       "experience": "경력무관",
       "employment_type": "계약직·프리랜서",
-      "deadline": "내일마감",
+      "deadline": "오늘마감",
       "tags": [
         "SNS마케팅",
         "마케팅",
@@ -3130,14 +3155,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "2fb89c9fba6a"
+      "job_id": "5e765f5c2fbf"
     },
     {
       "platform": "사람인",
       "title": "광고영업 마케터 AE 모집(네이버/오늘의집/에이블리)",
       "company": "(주)글루온",
       "location": "경기 수원시 , 오산시 , 용인시 , 화성시 , 화성시 동탄구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55396365&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=5de1b685-de6c-44e5-a061-b7f774b6f90f",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55396365&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=ff55ffee-ee25-4409-89e3-3fe4852d2a21",
       "regions": [
         "오산"
       ],
@@ -3148,7 +3173,7 @@
       "salary_max_manwon": 0,
       "experience": "경력무관",
       "employment_type": "계약직",
-      "deadline": "내일마감",
+      "deadline": "오늘마감",
       "tags": [
         "퍼포먼스마케팅",
         "영업마케팅",
@@ -3159,14 +3184,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "8f2c4343f59b"
+      "job_id": "fa063a69fdc3"
     },
     {
       "platform": "사람인",
       "title": "[정규직] [화성시 근무] 온라인 마케터 채용",
       "company": "(주)간판과광고코투스애드",
       "location": "경기전체 , 수원시 , 오산시 , 용인시 , 화성시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55642183&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=5de1b685-de6c-44e5-a061-b7f774b6f90f",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55642183&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=ff55ffee-ee25-4409-89e3-3fe4852d2a21",
       "regions": [
         "오산"
       ],
@@ -3188,14 +3213,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "8287e99a2ebc"
+      "job_id": "8aa698979571"
     },
     {
       "platform": "사람인",
       "title": "[PMC박병원] 홍보팀장 채용 공고",
       "company": "(의)갈렌의료재단",
       "location": "경기 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55535218&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bfa1c055-b65f-403b-acad-bbdbe838b7d7",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55535218&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=c7770748-dfc3-4095-8026-6c9ba40a8b47",
       "regions": [
         "평택"
       ],
@@ -3217,14 +3242,14 @@
       "company_rating": null,
       "is_core_marketing": true,
       "posted_at": "",
-      "job_id": "c5c3fc1a37ac"
+      "job_id": "16d8f1390718"
     },
     {
       "platform": "사람인",
       "title": "영상 촬영·편집 감각있고 자신있는 담당자를 찾고 있습니다.",
       "company": "주식회사가온(GAONInc)",
       "location": "경기 오산시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55402744&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=5de1b685-de6c-44e5-a061-b7f774b6f90f",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55402744&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=ff55ffee-ee25-4409-89e3-3fe4852d2a21",
       "regions": [
         "오산"
       ],
@@ -3235,7 +3260,7 @@
       "salary_max_manwon": 0,
       "experience": "신입·경력",
       "employment_type": "정규직",
-      "deadline": "~ 11/26(목)",
+      "deadline": "내일마감",
       "tags": [
         "마케팅",
         "영상편집",
@@ -3246,14 +3271,14 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "35050b34dd96"
+      "job_id": "f306235311fa"
     },
     {
       "platform": "사람인",
       "title": "젊은건설사 본사 총괄팀장 모심",
       "company": "유티종합건설(주)",
       "location": "충남 아산시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55621144&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=9001b1af-def4-413a-aa0e-10707fb1e25a",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55621144&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=4cd58a2b-eb9d-4eb0-823c-3f28189ab773",
       "regions": [
         "아산"
       ],
@@ -3275,7 +3300,7 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "23a3f9376230"
+      "job_id": "8542fa57e81e"
     },
     {
       "platform": "잡코리아",
@@ -3308,7 +3333,7 @@
       "title": "병원 전문직블로그 글쓰기 작가님 모집합니다. (재택근무)",
       "company": "심오한프로젝트(주)",
       "location": "경기 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55459375&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=aecfd225-7a6a-4328-9d82-bbfb1c2c1a8d",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55459375&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bce7c555-394c-421b-9855-2ae9b1f8d9e2",
       "regions": [
         "평택"
       ],
@@ -3330,14 +3355,14 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "8855c6e14664"
+      "job_id": "8138adfee4a7"
     },
     {
       "platform": "사람인",
       "title": "변호사 블로그 글쓰기 작가님 모집합니다. (재택근무)",
       "company": "심오한프로젝트(주)",
       "location": "경기 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55459338&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=aecfd225-7a6a-4328-9d82-bbfb1c2c1a8d",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55459338&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bce7c555-394c-421b-9855-2ae9b1f8d9e2",
       "regions": [
         "평택"
       ],
@@ -3359,14 +3384,14 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "1ce018a88767"
+      "job_id": "b2eb25364f24"
     },
     {
       "platform": "사람인",
       "title": "슬로엔 SNS(블로그/스레드) 콘텐츠 제작 아르바이트 채용 공고",
       "company": "슬로엔",
       "location": "경기 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55492342&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bfa1c055-b65f-403b-acad-bbdbe838b7d7",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55492342&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=c7770748-dfc3-4095-8026-6c9ba40a8b47",
       "regions": [
         "평택"
       ],
@@ -3386,14 +3411,14 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "6c845fd06f8b"
+      "job_id": "41c382b37008"
     },
     {
       "platform": "사람인",
       "title": "[벤처기업/쿠팡 MD] 상품 등록, 광고 운영 경력자 모집",
       "company": "라이트밸런스(주)",
       "location": "서울 구로구 , 마포구 , 영등포구 , 용산구 , 중구 , 경기 성남시 , 수원시 , 오산시 , 용인시 , 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55557533&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=aecfd225-7a6a-4328-9d82-bbfb1c2c1a8d",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55557533&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bce7c555-394c-421b-9855-2ae9b1f8d9e2",
       "regions": [
         "평택",
         "오산"
@@ -3416,7 +3441,7 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "db9497d57e66"
+      "job_id": "f855a64ab13d"
     },
     {
       "platform": "잡코리아",
@@ -3504,7 +3529,7 @@
       "title": "[팀장급] 온라인 및 기획",
       "company": "(주)코라마상사",
       "location": "경기 수원시 , 안산시 , 오산시 , 의왕시 , 화성시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55592086&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=5de1b685-de6c-44e5-a061-b7f774b6f90f",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55592086&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=ff55ffee-ee25-4409-89e3-3fe4852d2a21",
       "regions": [
         "오산"
       ],
@@ -3526,20 +3551,20 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "7f9a93ee8b91"
+      "job_id": "bb4a58d34d5d"
     },
     {
       "platform": "사람인",
       "title": "가전제품 상품기획 및 소싱 직원채용(중국어 필수) [평택본사]",
       "company": "(주)캐로스컴퍼니",
       "location": "경기전체 , 수원시 권선구 , 오산시 , 평택시 , 화성시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55585778&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=b4ca980a-389c-40d3-b1c3-c481ce5661be",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55585778&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=a4591bee-7af3-42ac-bf3b-04b0d806cf2a",
       "regions": [
         "평택",
         "오산"
       ],
-      "salary_raw": "",
-      "salary_display": "회사내규 / 면접 후 결정",
+      "salary_raw": "연봉상승률 10% 이상",
+      "salary_display": "연봉상승률 10% 이상",
       "salary_annual_manwon": 0,
       "salary_min_manwon": 0,
       "salary_max_manwon": 0,
@@ -3556,14 +3581,14 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "fb0c1511da13"
+      "job_id": "dacb724ca436"
     },
     {
       "platform": "사람인",
       "title": "[천안 쌍용동] 라마다앙코르 바이 윈덤 호텔 예약실 매니저 채용",
       "company": "(주)천안호텔관리단",
       "location": "충남전체 , 아산시 , 천안시 , 천안시 동남구 , 천안시 서북구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55483955&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=9001b1af-def4-413a-aa0e-10707fb1e25a",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55483955&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=4cd58a2b-eb9d-4eb0-823c-3f28189ab773",
       "regions": [
         "천안",
         "아산"
@@ -3586,14 +3611,14 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "9492d20c3038"
+      "job_id": "5a4ee79844cc"
     },
     {
       "platform": "사람인",
       "title": "화장품 및 스킨부스터 상품기획 채용(경력)",
       "company": "(주)지에프씨생명과학",
       "location": "경기 수원시 , 오산시 , 용인시 , 화성시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55425932&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=5de1b685-de6c-44e5-a061-b7f774b6f90f",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55425932&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%98%A4%EC%82%B0&searchType=search&paid_fl=n&search_uuid=ff55ffee-ee25-4409-89e3-3fe4852d2a21",
       "regions": [
         "오산"
       ],
@@ -3615,14 +3640,14 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "2ff3044b8e88"
+      "job_id": "8f8852f4e060"
     },
     {
       "platform": "사람인",
       "title": "YC-EXICON-SEMCNS GROUP 2026년도 하반기 신입사원 공개채용",
       "company": "(주)와이씨",
       "location": "경기전체 , 성남시 분당구 , 화성시 , 충북 충북전체 , 청주시 흥덕구 , 충남 충남전체 , 아산시 , 천안시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55609488&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=724c0cc9-384b-40ef-9fd7-a0b57381eccd",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55609488&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b1a09eed-0f1e-4400-8c09-7f6c423a8772",
       "regions": [
         "천안",
         "아산"
@@ -3645,14 +3670,14 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "39262611e6fb"
+      "job_id": "1f89d2d0b68a"
     },
     {
       "platform": "사람인",
       "title": "해외영업·해외영업관리·해외영업 관리팀장·제조·생산관리·공급관리·상품기획·구매·품질보증·경영기획 채용",
       "company": "(주)엔코스",
       "location": "경기전체 , 수원시 , 오산시 , 평택시 , 화성시 , 화성시 동탄구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55535143&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=aecfd225-7a6a-4328-9d82-bbfb1c2c1a8d",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55535143&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bce7c555-394c-421b-9855-2ae9b1f8d9e2",
       "regions": [
         "평택",
         "오산"
@@ -3675,14 +3700,14 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "7be1c48cb219"
+      "job_id": "52e6be72066c"
     },
     {
       "platform": "사람인",
       "title": "[에이텍/판교] 각 부문 신입/경력사원 모집",
       "company": "(주)에이텍",
       "location": "경기 성남시 분당구 , 성남시 수정구 , 수원시 권선구 , 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55311447&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=aecfd225-7a6a-4328-9d82-bbfb1c2c1a8d",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55311447&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bce7c555-394c-421b-9855-2ae9b1f8d9e2",
       "regions": [
         "평택"
       ],
@@ -3704,14 +3729,14 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "b88616f6077d"
+      "job_id": "71a7b399a761"
     },
     {
       "platform": "사람인",
       "title": "(주)세스코라이프케어 지국팀장 채용(천안지국)",
       "company": "(주)세스코라이프케어",
       "location": "경북 안동시 , 충남 서산시 , 아산시 , 천안시 , 천안시 동남구 , 천안시 서북구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55609032&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=cfa2b06b-e828-49ff-99aa-551e44e22580",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55609032&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=14d47bb7-3cba-443e-ae87-188231c2c8ab",
       "regions": [
         "천안",
         "아산"
@@ -3734,14 +3759,14 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "f1eaac7e670d"
+      "job_id": "97a2e66cf33b"
     },
     {
       "platform": "사람인",
       "title": "[성창오토텍 안성] 원가기획팀/기획팀 채용",
       "company": "(주)성창오토텍",
       "location": "경기 안성시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55581237&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=cfa2b06b-e828-49ff-99aa-551e44e22580",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55581237&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=14d47bb7-3cba-443e-ae87-188231c2c8ab",
       "regions": [
         "안성"
       ],
@@ -3763,14 +3788,14 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "7ae006daadb1"
+      "job_id": "725e39c6918f"
     },
     {
       "platform": "사람인",
       "title": "반도체 패키징·테스트 솔루션(OSAT) 기업: 제품 기획 및 전략",
       "company": "(주)백그라운드",
       "location": "충남 천안시 서북구",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55638770&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=b9f84c88-0529-4a60-8d2b-6ab5285d5027",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55638770&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%B2%9C%EC%95%88&searchType=search&paid_fl=n&search_uuid=9bec9c60-02a7-4d73-a5a7-a5a027d3c118",
       "regions": [
         "천안"
       ],
@@ -3792,14 +3817,14 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "17ca3e0dc54e"
+      "job_id": "e323b36fb351"
     },
     {
       "platform": "사람인",
       "title": "화장품 원료 각 부문별 사원 모집",
       "company": "(주)미존",
       "location": "경기전체 , 오산시 , 평택시 , 화성시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55607759&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bfa1c055-b65f-403b-acad-bbdbe838b7d7",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55607759&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=c7770748-dfc3-4095-8026-6c9ba40a8b47",
       "regions": [
         "평택",
         "오산"
@@ -3822,14 +3847,14 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "c9ddb8300615"
+      "job_id": "789ba105916d"
     },
     {
       "platform": "사람인",
-      "title": "[라인] 2027 경력사원 공개채용",
+      "title": "2027 경력사원 공개채용",
       "company": "(주)라인건설",
       "location": "서울전체 , 강남구 , 경기 경기전체 , 대전 대전전체 , 인천 인천전체 , 경남 경남전체 , 전남광주 전남광주전체 , 전북 전북전체 , 충남 아산시 , 전국 전국",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55631922&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=9001b1af-def4-413a-aa0e-10707fb1e25a",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55631922&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%84%EC%82%B0&searchType=search&paid_fl=n&search_uuid=4cd58a2b-eb9d-4eb0-823c-3f28189ab773",
       "regions": [
         "아산"
       ],
@@ -3851,14 +3876,14 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "ea6d748b02fc"
+      "job_id": "ad3eaf9014b1"
     },
     {
       "platform": "사람인",
       "title": "(주)도프 유튜브 콘텐츠 PD. 영상 제작 담당자 채용(농업부분)",
       "company": "(주)도프",
       "location": "경기 평택시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55532101&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=aecfd225-7a6a-4328-9d82-bbfb1c2c1a8d",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55532101&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%ED%8F%89%ED%83%9D&searchType=search&paid_fl=n&search_uuid=bce7c555-394c-421b-9855-2ae9b1f8d9e2",
       "regions": [
         "평택"
       ],
@@ -3869,7 +3894,7 @@
       "salary_max_manwon": 0,
       "experience": "경력2년↑",
       "employment_type": "정규직",
-      "deadline": "~ 11/30(월)",
+      "deadline": "~ 12/09(수)",
       "tags": [
         "블로그마케팅",
         "SNS마케팅",
@@ -3880,14 +3905,14 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "b86f4090cce9"
+      "job_id": "3bdd88af5509"
     },
     {
       "platform": "사람인",
       "title": "B2C 온라인 MD·오프라인 대리점 영업관리 채용",
       "company": "(주)금화피앤에스",
       "location": "경기 안성시",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55416798&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=0c1bfc56-e008-40fa-9a87-958d4b72b879",
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=search&rec_idx=55416798&location=ts&searchword=%EB%A7%88%EC%BC%80%ED%8C%85+%EC%95%88%EC%84%B1&searchType=search&paid_fl=n&search_uuid=09c42731-16e8-4aba-88cd-f7909f4ecc8d",
       "regions": [
         "안성"
       ],
@@ -3907,7 +3932,7 @@
       "company_rating": null,
       "is_core_marketing": false,
       "posted_at": "",
-      "job_id": "e7b57692694b"
+      "job_id": "9abd3c9c9eda"
     }
   ]
 }
